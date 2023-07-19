@@ -1,0 +1,11 @@
+a=55
+b=66
+print(a)
+a+=b
+print(a)
+a-=b
+print(b)
+a*=b
+print(a)
+a/=b
+print(b)

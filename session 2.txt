@@ -1,0 +1,56 @@
+python:
+
+ interpretor language
+ app: windows,web,iot
+ syntax:
+    space and intendation
+    
+    3.10.7
+  
+       python integreted development language environment (IDLE)
+
+         editor>>like notepad    >>script mode
+         shell >>command prompt  >>shell  mode
+
+tokens:
+      comments: description about a code/line or application
+           #single line comment
+    
+           '''
+           multi
+           line
+           comments
+           '''
+    
+keywords:reserved words with inbuild meaning
+         eg:for,while,pass,continue,return,def,class
+
+types:
+str   >>string >>collection of any characters between"" >>
+        eg: "vignesh22344"
+
+int   >>integer >>numbers in whole valus not point>> 
+        eg:98,89
+
+float >> float >>numbers in point value>>
+         eg:74.74.75.8
+
+bool  >>boolean>> status>> true or false
+  
+list
+sey 
+dict
+tuple 
+
+operators:
+    arithmetic               + - * / % //
+    short hand/assigment     += -= *= //= /= %=
+    bit wise                 & | >> <<
+    
+    
+    relational               > >= <= < == !=
+    logical                  and or not
+
+
+																												
+																			 

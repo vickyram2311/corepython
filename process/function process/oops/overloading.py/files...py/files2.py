@@ -1,0 +1,6 @@
+vicky=open("quotes.txt","r")
+print(vicky.read())
+print(vicky.readable())
+print(vicky.writable())
+print(vicky.mode)
+vicky.close()

@@ -1,0 +1,9 @@
+a=10
+b=5
+print(b)
+b+=a
+print(b)
+b-=a
+print(b)
+b*=a
+print(b)
